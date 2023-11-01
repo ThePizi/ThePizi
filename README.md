@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePizi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Back-End web development
+- 🌱 I’m currently learning node js and working at v.s.k as Junior Back-End Dev
 - 📫 How to reach me : just email me
 
 <!---
