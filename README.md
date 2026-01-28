@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePizi
-- 👀 I’m interested in Back-End web development
-- 🌱 I’m currently learning node js and working at Dubz as Junior Back-End Dev
+- 👀 I’m interested in Back-End web development and Applied Ai engineering
+- 🌱 I’m currently learning Python and studying comp engineering in NUS
 - 📫 How to reach me : just email me
 
 <!---
